@@ -1,0 +1,8 @@
+name: Homeward Plugin Brewing
+version: '${version}'
+main: minecraft.homeward.homewardpluginbrewing.HomewardPluginBrewing
+api-version: 1.18
+prefix: homeward journey brewing plugin
+authors: [ Baioretto ]
+description: homewardjourney's brewing plugin
+website: fantang.cc
